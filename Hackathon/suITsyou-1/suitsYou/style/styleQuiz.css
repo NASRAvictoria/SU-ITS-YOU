@@ -1,0 +1,34 @@
+/* body, html {
+    height: 100%;
+    margin: 0;
+  } */
+
+
+body{
+  /*background-image: url(../artwork/code.jpg);*/
+  background-color: rgba(222,96,212,255);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+ #window{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    overflow: hidden;
+} 
+
+
+
+
+

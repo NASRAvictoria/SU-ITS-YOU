@@ -1,0 +1,72 @@
+body{
+    background-color:#a99697 ;
+  text-align: right;
+}
+.head{
+    text-align: center;
+    color:#707070;
+    font-size: 100px;
+     position: relative;
+     margin-top: 0;
+}
+.vic{
+    text-align: center;
+  
+}
+
+input{
+    padding-left:50px ;
+    padding-right:50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 46px;
+    font-weight: 400;
+}
+.it{
+    color: #693436;
+    margin: 10px;
+    font-size:150px;
+    margin-bottom: auto;
+   
+}
+h1{
+    color:black;
+}
+
+li, ul {
+	list-style: none;
+}
+.you{
+    position: absolute;
+    top: 70%;
+    left: 45%;
+}
+.s{
+    position: absolute;
+    top: 26%;
+    left: 58%;
+}
+
+
+.play{
+    background-color:#7e7171;
+    border-radius: 10px;
+    padding: 14px 20px 14px 20px;
+    
+    
+}
+.quiz{
+margin-top: 40px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.button{
+     background-color:#7e7171;
+    border-radius: 10px;
+    padding: 14px 20px 14px 20px;
+    width: 40px;
+    float:right ;
+}
